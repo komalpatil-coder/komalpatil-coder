@@ -1,0 +1,5 @@
+import java.lang.*;
+public static void main(string args[])
+{
+system.out.println("Helloworld");
+}
